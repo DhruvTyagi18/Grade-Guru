@@ -11,7 +11,7 @@ max_line_length = 80
 
 def extract_text_from_image(image):
     """Extract text from the given image using OCR."""
-    pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+    pytesseract.pytesseract.tesseract_cmd = r'Tesseract-OCR\tesseract.exe'
     text = pytesseract.image_to_string(image)
     return text
 
