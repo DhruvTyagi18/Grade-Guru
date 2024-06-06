@@ -1,4 +1,4 @@
-# Grade Guru :-The AI Examiner 🌟
+# Grade Guru :-The AI Examiner
 
 ## Description
 This "Grade Guru :-The AI Examiner," allows teachers to analyze student answers using AI. It provides a user-friendly interface to upload images of student answers, input the extracted text, compare it with the teacher's answer, and evaluate the result.
