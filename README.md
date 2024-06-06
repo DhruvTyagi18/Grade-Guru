@@ -3,6 +3,9 @@
 ## Description
 This "Grade Guru :-The AI Examiner," allows teachers to analyze student answers using AI. It provides a user-friendly interface to upload images of student answers, input the extracted text, compare it with the teacher's answer, and evaluate the result.
 
+![Screenshot 2024-06-06 135601](https://github.com/DhruvTyagi18/Grade-Guru/assets/92265404/b83ac6da-c195-4b42-adac-52466607f976)
+
+
 ## Usage
 1. **Upload Student Answer Photo**: Upload an image of the student's answer.
 2. **Enter Student Answer Text**: Enter the extracted text from the uploaded image.
