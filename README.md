@@ -1,7 +1,7 @@
-# Parikshak AI Examiner 🌟
+# Grade Guru :-The AI Examiner 🌟
 
 ## Description
-This "Parikshak AI Examiner," allows teachers to analyze student answers using AI. It provides a user-friendly interface to upload images of student answers, input the extracted text, compare it with the teacher's answer, and evaluate the result.
+This "Grade Guru :-The AI Examiner," allows teachers to analyze student answers using AI. It provides a user-friendly interface to upload images of student answers, input the extracted text, compare it with the teacher's answer, and evaluate the result.
 
 ## Usage
 1. **Upload Student Answer Photo**: Upload an image of the student's answer.
@@ -13,8 +13,8 @@ This "Parikshak AI Examiner," allows teachers to analyze student answers using A
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/om-ashish-soni/ai_examiner_parikshak.git
-   cd ai_examiner_parikshak
+   git clone https://github.com/DhruvTyagi18/Grade-Guru.git
+   cd Grade-Guru
 
 2. **Environment Setup**:
    - Create .env file in /ai_search_ui directory of project
