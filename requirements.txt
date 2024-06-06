@@ -4,4 +4,4 @@ requests
 gtts
 pytesseract
 tesseract-ocr
-libtesseract-dev
+
