@@ -3,5 +3,4 @@ python-dotenv
 requests
 gtts
 pytesseract
-tesseract-ocr
 
