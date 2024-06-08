@@ -36,7 +36,8 @@ def format_prompt_1(StudentAnswer,TeacherAnswer,TotalMarks):
 # loading env varaibles
 load_dotenv()
 # REPLACE WITH YOUR HUGGING FACE ACCOUNT TOKEN ( Go to settings and get access token from hugging face)
-hf_token=os.getenv('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')
+# hf_token=os.getenv('')
+hf_token = "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"
 
 # querying
 def query(payload):
