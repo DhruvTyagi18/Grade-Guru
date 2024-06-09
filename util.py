@@ -111,7 +111,7 @@ def display_footer():
             <!-- Your main app content goes here -->
         </div>
         <div class="footer">
-            <p class="mb-0">Made with 🙏 designed by Om Ashishkumar Soni</p>
+            <p class="mb-0">Made with 🙏 designed by Dhruv Tyagi</p>
         </div>
         """,
         unsafe_allow_html=True,
